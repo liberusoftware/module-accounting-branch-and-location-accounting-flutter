@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-branch-and-location-accounting-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-branch-and-location-accounting",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_branch_and_location_accounting_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/branch-and-location-accounting.md",
+  "presentationPlan": "projects/accounting/flutter/branch-and-location-accounting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
